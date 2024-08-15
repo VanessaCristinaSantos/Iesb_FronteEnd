@@ -1,0 +1,41 @@
+body {
+    padding-bottom: 500px;
+}
+h2 {
+    font-size: 22px;
+    color: blue;
+}
+
+h3 {
+    color: aqua;
+}
+/* Selecionando class*/
+.cor-laranja {
+    color:orange
+}
+
+/* selecionar indentificador*/
+#ultimo-titulo {
+    color: black
+    
+}
+.Fundo-azul{
+    background-color: blue
+}
+.texto-pequeno
+#meu-paragrafo{
+    font-size: 8px
+}
+#minha-div{ 
+    background-image:url(../assets/imagem_fundo.jfif);
+    padding:100px;
+}
+#altura-largura{
+    height: 200px;
+    width: 200px;
+    background-color: gray;
+}
+    #div-espacamento{
+        background-color: aqua
+        padding: 10px 20px 10px 20px;
+    }
